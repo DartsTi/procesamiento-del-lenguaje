@@ -1,4 +1,4 @@
-# procesamiento del lenguaje Natural
+# Procesamiento del lenguaje Natural
 Inicio del procesamiento del lenguaje con python
 
 TextBlob es una biblioteca de Python para procesar datos textuales. Tiene un montón de cosas interesantes que pueden ayudar a analizar y comprender datos de texto en Python.
